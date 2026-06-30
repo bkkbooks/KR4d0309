@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0309/WYG/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 少
+  hash: sha256:62f99c9a0c50d790a7ab9b368df966956436e646a0463043d4a74444e3daf7b3
+metadata:
+  title: 白石道人詩集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 14:38:42.883928'
+  source:
+    repository: kanripo
+    path: KR4d0309/KR4d0309_005.txt
+hash: sha256:6d16a5c460505ab0de377a2d086679ccca3fb4e6ad307a12f07d25702cc1a2b7
