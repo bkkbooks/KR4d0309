@@ -17,7 +17,7 @@ entity_encoding:
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 assets:
   parts:
-  - {seq: 0, filename: KR4d0309_000-SBCK.yaml, hash: 'sha256:ccffa732d253d257b709ecf40bbaf9f081c5f1171344a44b6d08b29790af00fb'}
+  - {seq: 0, filename: KR4d0309_000-SBCK.yaml, hash: 'sha256:6e5b1c6f75ac6aecc37e00fb9a7089250fefecbdfb19764a67164ecf782d0a2b'}
   - {seq: 1, filename: KR4d0309_001-SBCK.yaml, hash: 'sha256:0bb7125abe077c48684d4929b49223a06644ba8595602ec2f990d2ed9ae04df4'}
   - {seq: 2, filename: KR4d0309_002-SBCK.yaml, hash: 'sha256:b997f60cb8d4fb50830cf04588a908a2c09f1070c0f68eb4174956137053ec96'}
   - {seq: 3, filename: KR4d0309_003-SBCK.yaml, hash: 'sha256:d37f5f3d7730a2f074adbf34c3d48c5e42ba9418fbcd0e90286d09fd5b722a04'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 8, filename: KR4d0309_008-SBCK.yaml, hash: 'sha256:adfe4a1d6fbc754b2991ac0e887767fa41f8086e6f521d8e4ef70061ec697de6'}
   - {seq: 9, filename: KR4d0309_009-SBCK.yaml, hash: 'sha256:0f7bf5e75687dc3a7334ab409b713e88fe09b304b0b0f7cd113158402f2c4603'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0309_000-SBCK.markers.yaml, hash: 'sha256:03cd3be457099261d3c59c27bce746e2d4832f35b9338183b614e1149258398b'}
+  - {seq: 0, role: markers, filename: assets/KR4d0309_000-SBCK.markers.yaml, hash: 'sha256:2d8f056325abe21b47bf7fb0326cc32000ad1194b0045ef3f5968cab79442dad'}
   - {seq: 1, role: markers, filename: assets/KR4d0309_001-SBCK.markers.yaml, hash: 'sha256:c21434102439373f6e31a62d6f3142229f2ba30fb9036bcf73fb5c73bc6b854f'}
   - {seq: 2, role: markers, filename: assets/KR4d0309_002-SBCK.markers.yaml, hash: 'sha256:40bfd8a72fce0c8f2b9a62016d5b53ab0f40da0cf9546cf73ed43115c2da22d6'}
   - {seq: 3, role: markers, filename: assets/KR4d0309_003-SBCK.markers.yaml, hash: 'sha256:344eae5362ecb8aba0d809c5c9239d445e8da0ba0fbbe21ca0c928921f7b9811'}
@@ -44,8 +44,8 @@ table_of_contents:
     marker_id: KR4d0309_SBCK_000-1a
     span:
     - body
-    - 0
-    - 316
+    - 330
+    - 646
   label: juan 000
   type: section
   level: 1
@@ -139,4 +139,4 @@ table_of_contents:
   label: juan 009
   type: section
   level: 1
-hash: sha256:c4b1c6ac86281f5b5ad928ad9e4e3554cb0c647555f205ec2d657ecdcec747e4
+hash: sha256:989b0de8848610b5ba959c5b20bb5d0e78892a5e7b15b014dcae85aa90b03371
